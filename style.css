@@ -26,4 +26,13 @@ body { // <uniquifier>: Use a unique and descriptive class name
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+  -estudante-imagem {
+                     width:24px;
+                     padding:4px 8px:
+  
 }
+  .estudante-icone { 
+                    width:24px;
+                    padding:4px 8px;
+  }
+  
